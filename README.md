@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg" alt="Web Development Banner" width="30%" height="30%">
+  <img src="https://i.pinimg.com/736x/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Seema</h1>
