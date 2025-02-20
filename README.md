@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.creativefabrica.com/wp-content/uploads/2020/12/09/1607500149/Girl-coder-580x386.jpg" alt="Web Development Banner" width="100%" height="auto">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fgirl-coder-5%2F&psig=AOvVaw0igOfN_sRLIe6AfPjpZY1K&ust=1740158877818000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi07JDj0osDFQAAAAAdAAAAABAJ" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Seema</h1>
