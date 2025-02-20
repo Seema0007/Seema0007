@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fgirl-coder-5%2F&psig=AOvVaw0igOfN_sRLIe6AfPjpZY1K&ust=1740158877818000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi07JDj0osDFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwoman-coding&psig=AOvVaw2NK0vXaaan_M05DqlCULaV&ust=1740159026123000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCp-9bj0osDFQAAAAAdAAAAABAE" alt="Web Development Banner" width="100%" height="auto">
+  <img src="https://images.stockcake.com/public/f/0/8/f083a5d2-25e2-4fe3-8e90-05424c58ef0f_large/girl-programming-computer-stockcake.jpg" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Seema</h1>
