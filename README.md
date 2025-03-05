@@ -44,13 +44,6 @@ Here are some of the recent projects I've worked on:
 5. **[Digital Magazine](https://task-2-digital-magazine.vercel.app/)** - Digital magazine platform.
 6. **[Open Source Contributions](https://github.com/Seema0007)** - Contributions to various open-source projects.
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seema0007&show_icons=true&theme=radical" alt="Seema's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seema0007&theme=radical" alt="Seema's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seema0007&layout=compact&theme=radical" alt="Seema's Most Used Languages" />
-</div>
 
 ## 🌐 Get in Touch
 
