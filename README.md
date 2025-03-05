@@ -2,11 +2,10 @@
   <img src="https://i.pinimg.com/736x/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg" alt="Web Development Banner" width="auto" height="auto">
 </div>
 
-<h1 align="center">🚀 Seema</h1>
+<h1 align="center">🚀 Seema S</h1>
 
-<p align="center">  
+<p align="center">
   <a href="https://www.linkedin.com/in/seema-s-966b85244/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20S-blue?style=for-the-badge&logo=linkedin"></a>
-  <!-- <a href="https://ayushanand2003.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&logo=firefox-browser"></a> -->
   <a href="mailto:seemaumesh007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Reach%20via%20Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -20,19 +19,44 @@ Hello! 👋 I'm Seema, a Final Year Information Science Engineering student purs
 
 ## 🔧 Skills
 
-- Full Stack Web Development (MERN Stack)
-- C, C++, Java, JavaScript
+<div align="center">
+  <img src="https://img.shields.io/badge/MERN-61DAFB?style=flat-square&logo=react&logoColor=white" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="RESTful APIs" />
+</div>
 
 ## 🚀 Projects
 
 Here are some of the recent projects I've worked on:
 
-1. [**Panoray Ventures Website**](https://www.panoray.com/) - Website for a VC/WEB3 firm.
-2. [**Newrro Website**](https://www.newrro.in/) - Website for a Startup company.
-   <!-- Add more projects as necessary -->
+1. **[Panoray Ventures Website](https://www.panoray.com/)** - Website for a VC/WEB3 firm.
+2. **[Newrro Website](https://www.newrro.in/)** - Website for a Startup company.
+3. **[Portfolio Website](https://yourportfolio.com/)** - Personal portfolio showcasing my skills and projects.
+4. **[Generative Art](https://task1-generative-art.vercel.app/)** - Interactive generative digital art software that people can play with.
+5. **[Digital Magazine](https://task-2-digital-magazine.vercel.app/)** - Digital magazine platform.
+6. **[Open Source Contributions](https://github.com/Seema0007)** - Contributions to various open-source projects.
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seema0007&show_icons=true&theme=radical" alt="Seema's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seema0007&theme=radical" alt="Seema's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seema0007&layout=compact&theme=radical" alt="Seema's Most Used Languages" />
+</div>
 
 ## 🌐 Get in Touch
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech! 😊
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/seema-s-966b85244/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Seema%20S-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:seemaumesh007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Reach%20via%20Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
