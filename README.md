@@ -39,7 +39,7 @@ Here are some of the recent projects I've worked on:
 
 1. **[Panoray Ventures Website](https://www.panoray.com/)** - Website for a VC/WEB3 firm.
 2. **[Newrro Website](https://www.newrro.in/)** - Website for a Startup company.
-3. **[Portfolio Website](seema0007.github.io/Portfolio/)** - Personal portfolio showcasing my skills and projects.
+3. **[Portfolio Website]((https://seema0007.github.io/Portfolio/))** - Personal portfolio showcasing my skills and projects.
 4. **[Generative Art](https://task1-generative-art.vercel.app/)** - Interactive generative digital art software that people can play with.
 5. **[Digital Magazine](https://task-2-digital-magazine.vercel.app/)** - Digital magazine platform.
 6. **[Open Source Contributions](https://github.com/Seema0007)** - Contributions to various open-source projects.
