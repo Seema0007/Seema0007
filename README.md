@@ -41,8 +41,7 @@ Here are some of the recent projects I've worked on:
 3. **[Digital Magazine](https://task-2-digital-magazine.vercel.app/)** - Digital magazine platform.
 4. **[Portfolio Website](https://seema0007.github.io/Portfolio/)** - Personal portfolio showcasing my skills and projects.
 5. **[Jira User Dashboard](https://aumnee.vercel.app/)** - Jira Sprint Dashboard.
-6. **[Panoray Ventures Website](https://www.panoray.com/)** - Website for a VC/WEB3 firm.
-7. **[Open Source Contributions](https://github.com/Seema0007)** - Contributions to various open-source projects.
+6. **[Open Source Contributions](https://github.com/Seema0007)** - Contributions to various open-source projects.
 
 
 ## 🌐 Get in Touch
